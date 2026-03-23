@@ -261,7 +261,7 @@
         };
 
         keyPass {
-            bindings = <&kp LA(LC(A))>;
+            bindings = <&kp LA(LC(Q))>;
             key-positions = <19 20 21 39>;
             layers = <0>;
         };
